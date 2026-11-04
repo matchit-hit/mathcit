@@ -1,1 +1,0 @@
-Place starter accessories images here for the production build.
