@@ -1,0 +1,1 @@
+Place starter sticker images here for the production build.
