@@ -1,0 +1,1 @@
+Place starter stationery images here for the production build.
